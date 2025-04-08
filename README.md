@@ -11,7 +11,7 @@
 - 🏢 Desarrollador FullStack etapa practica Julio 2024 / Diciembre 2024 en [Almacontact SAS.](https://www.almacontact.com.co/es/)
 - 🎓 Estudios de ingenieria de software en [Universidad Cooperativa de Colombia](https://ucc.edu.co/?srsltid=AfmBOopTQ4UtKe0Dd_5rU6guyWqy7--n9nUxxDVrVibESJDM6gCmfMTD)
 - 🎓 Certificacion de cursos en [Videocursos.co](https://videocursos.co/)
-- 🏡 Ciudad de residencia **Medellín Antioquia**
+- 🏡 Ciudad de residencia: **Medellín Antioquia.**
 
 <br>
 
