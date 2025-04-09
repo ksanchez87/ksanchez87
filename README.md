@@ -7,7 +7,7 @@
 
 ## Acerca de mi :
 
-- 🏢 Experiencia con proyectos de desarrollo, implementando tecnologias como React, NodesJS, MySQL, Python, Java. 
+- 🏢 Experiencia con proyectos de desarrollo, implementando tecnologias como React, Next.JS, NodesJS, MySQL, Python, Java. 
 - 🏢 Desarrollador FullStack etapa practica Julio 2024 / Diciembre 2024 en [Almacontact SAS.](https://www.almacontact.com.co/es/)
 - 🎓 Estudios de ingenieria de software en [Universidad Cooperativa de Colombia](https://ucc.edu.co/?srsltid=AfmBOopTQ4UtKe0Dd_5rU6guyWqy7--n9nUxxDVrVibESJDM6gCmfMTD)
 - 🎓 Certificacion de cursos en [Videocursos.co](https://videocursos.co/)
