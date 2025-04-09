@@ -15,7 +15,7 @@
 
 <br>
 
-## Conectate Conmigo ☕ :
+## Conéctate Conmigo ☕ :
 
 <br>
 
