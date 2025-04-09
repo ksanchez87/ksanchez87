@@ -23,7 +23,7 @@
 
 <br>
 
-## Tecnologias mas usadas 🧑‍💻 :
+## Tecnologías mas usadas 🧑‍💻 :
 
 <br>
 
